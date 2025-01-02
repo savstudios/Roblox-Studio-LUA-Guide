@@ -15,8 +15,8 @@ print(8+4 .. 2-4)
 
 -- 1d
 
-name = "Ksawery"
-age = "11"
+name = "[REDACTED]"
+age = "[REDACTED]"
 birth = "Poland"
 
 print(name.." is "..age.." and was born in "..birth)
